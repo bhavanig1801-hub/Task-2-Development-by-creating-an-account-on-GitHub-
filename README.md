@@ -51,8 +51,8 @@
 
    <div class="content">
         <img class="tilt" src="images/passport pic.jpg" alt="">
-        <h3> Poonam <span> Jagtap </span> </h3>
-        <p> i am a <span class="typing-text"> front end developer </span> </p>
+        <h3> Bhavani <span> G </span> </h3>
+        <p> I am a <span class="typing-text"> Web developer </span> </p>
         <a href="#about" class="btn">about me</a>
     </div>
 
@@ -73,13 +73,13 @@
         </div>
 
    <div class="content">
-            <h3> my name is <span> Poonam Jagtap </span> </h3>
-            <p class="info">I'm currently pursuing bachelor degree in computer science engineering at MMIT, Lohgaon-pune. I have basic knowledge of programming languages like C++, PYTHON, JAVA, PHP, DBMS. Also I have ability to learn new things and believe in creativity. Passion for innovation and visiting new places.</p>
+            <h3> My name is <span> Bhavani G </span> </h3>
+            <p class="info">I'm currently pursuing bachelor degree in computer science engineering at KVCET, Kanchipuram. I have basic knowledge of programming languages like C++, PYTHON, JAVA, HTML, CSS, JAVASCRIPT. Also I have ability to learn new things and believe in creativity. Passion for innovation and visiting new places.</p>
             <div class="box-container">
                 <div class="box">
-                    <p> <span> Full Name: </span> Poonam Vilas Jagtap </p>
-                    <p> <span> Age: </span> 21 </p>
-                    <p> <span> College: </span> Marathwada Mitra Mandal Institute Of Technology,Lohgaon-pune </p>
+                    <p> <span> Full Name: </span> Bhavani G </p>
+                    <p> <span> Age: </span> 18 </p>
+                    <p> <span> College: </span> Karpaga Vinayaga College of Engineering and Technology, Chengalpattu </p>
                     <p> <span> Passion: </span> VIsiting new places, Listening music
         
                     
@@ -87,10 +87,10 @@
    <p> <span> Freelance : </span> available </p>
                 </div>
                 <div class="box">
-                    <p> <span> Language : </span> Hindi / English / Marathi </p>
+                    <p> <span> Language : </span> Hindi / English / Tamil </p>
                     <p> <span> Phone : </span> +123-456-7890 </p>
-                    <p> <span> Email : </span> poonamjagtap0011@gmail.com </p>
-                    <p> <span> Address : </span> At.Rashin Tal:Karjat Dist:Ahmadnagar            - 414403 </p>
+                    <p> <span> Email : </span> bhavanig1801@gmail.com </p>
+                    <p> <span> Address : </span> Uthiramerur Tal, Kanchipuram Dist-603406 </p>
                 </div>
             </div>
             <a href="https://docs.google.com/document/d/1hvzM860T-qFDAtrlZTIyUZBfWZOFzB7l/edit?usp=sharing&ouid=106832468375641583034&rtpof=true&sd=true" class="btn">download CV</a>
@@ -157,8 +157,8 @@
         <div class="skills-content">
             <div class="column left">
                 <div class="text">My creative skills & experiences.</div>
-                <h1> I have basic knowledge of programming languages like C++, PYTHON, JAVA, PHP, DBMS. Also I have ability to learn new things and believe in creativity.In diploma year2019-20, I have work on the project Online Grocery Shop. The soft skills include critical thinking, communication, and project and time management.</h1>
-                <a href="https://medium.com/@poonamjagtap0011">Read more</a>
+                <h1> I have basic knowledge of programming languages like C++, PYTHON, JAVA, HTML, CSS, JAVASCRIPT. Also I have ability to learn new things and believe in creativity.In diploma year2023-24, I have work on the project Online Grocery Shop. The soft skills include critical thinking, communication, and project and time management.</h1>
+                <a href="https://medium.com/@bhavani1801">Read more</a>
             </div>
             <div class="column right">
                 <div class="bars">
@@ -181,13 +181,6 @@
                         <span>80%</span>
                     </div>
                     <div class="line js"></div>
-                </div>
-                <div class="bars">
-                    <div class="info">
-                        <span>PHP</span>
-                        <span>50%</span>
-                    </div>
-                    <div class="line php"></div>
                 </div>
                 <div class="bars">
                     <div class="info">
@@ -302,14 +295,9 @@
         </div>
         <div class="social-footer">
         <div class="social-footer-icons">
+            <h3>Linkedin</h3>
           <ul class="menu simple">
-            <li><a href="https://github.com/jagtappoonam"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/poonamjagtap"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            <li><a href="https://medium.com/@poonamjagtap0011"><i class="fa fa-medium" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.facebook.com/poonam.jagtap.167189"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.instagram.com/poonam_.jagtap"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            <li><a href="https://t.me/Poonamjagtap16"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/PoonamJagtap15"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/bhavani-g-b408aa33a">https://www.linkedin.com/in/bhavani-g-b408aa33a</a></li>
            
    </ul>
         </div>
@@ -339,7 +327,7 @@
 
 <!-- footer section  -->
 
-<div class="footer"> created by <span> Ms.Poonam Jagtap </span> | all rights reserved!
+<div class="footer"> created by <span> Ms.Bhavani G </span> | all rights reserved!
 </div>
   
 
