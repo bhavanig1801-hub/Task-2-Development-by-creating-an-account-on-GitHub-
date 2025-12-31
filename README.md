@@ -93,7 +93,7 @@
                     <p> <span> Address : </span> Uthiramerur Tal, Kanchipuram Dist-603406 </p>
                 </div>
             </div>
-            <a href="https://docs.google.com/document/d/1hvzM860T-qFDAtrlZTIyUZBfWZOFzB7l/edit?usp=sharing&ouid=106832468375641583034&rtpof=true&sd=true" class="btn">download CV</a>
+            
         </div>
 
   </div>
