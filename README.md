@@ -74,13 +74,13 @@
 
    <div class="content">
             <h3> My name is <span> Bhavani G </span> </h3>
-            <p class="info">I'm currently pursuing bachelor degree in computer science engineering at KVCET, Kanchipuram. I have basic knowledge of programming languages like C++, PYTHON, JAVA, HTML, CSS, JAVASCRIPT. Also I have ability to learn new things and believe in creativity. Passion for innovation and visiting new places.</p>
+            <p class="info">I'm currently pursuing bachelor degree in computer science engineering at KVCET, Chengalpattu. I have basic knowledge of programming languages like C++, PYTHON, JAVA, HTML, CSS, JAVASCRIPT. Also I have ability to learn new things and believe in creativity. Passion for innovation and visiting new places.</p>
             <div class="box-container">
                 <div class="box">
                     <p> <span> Full Name: </span> Bhavani G </p>
                     <p> <span> Age: </span> 18 </p>
                     <p> <span> College: </span> Karpaga Vinayaga College of Engineering and Technology, Chengalpattu </p>
-                    <p> <span> Passion: </span> VIsiting new places, Listening music
+                    <p> <span> Passion: </span> Visiting new places, Listening music
         
                     
 
@@ -88,7 +88,7 @@
                 </div>
                 <div class="box">
                     <p> <span> Language : </span> Hindi / English / Tamil </p>
-                    <p> <span> Phone : </span> +123-456-7890 </p>
+                    <p> <span> Phone : </span> 9789612860 </p>
                     <p> <span> Email : </span> bhavanig1801@gmail.com </p>
                     <p> <span> Address : </span> Uthiramerur Tal, Kanchipuram Dist-603406 </p>
                 </div>
