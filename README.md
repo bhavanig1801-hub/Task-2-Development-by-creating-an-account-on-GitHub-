@@ -137,7 +137,6 @@
             <div class="column left">
                 <div class="text">My creative skills & experiences.</div>
                 <h1> I have basic knowledge of programming languages like C++, PYTHON, JAVA, HTML, CSS, JAVASCRIPT. Also I have ability to learn new things and believe in creativity.In diploma year2023-24, I have work on the project Online Grocery Shop. The soft skills include critical thinking, communication, and project and time management.</h1>
-                <a href="https://medium.com/@bhavani1801">Read more</a>
             </div>
             <div class="column right">
                 <div class="bars">
