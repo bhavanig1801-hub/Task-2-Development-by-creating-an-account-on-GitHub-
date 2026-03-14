@@ -78,7 +78,7 @@
             <div class="box-container">
                 <div class="box">
                     <p> <span> Full Name: </span> Bhavani G </p>
-                    <p> <span> Age: </span> 18 </p>
+                    <p> <span> Age: </span> 19 </p>
                     <p> <span> College: </span> Karpaga Vinayaga College of Engineering and Technology, Chengalpattu </p>
                     <p> <span> Passion: </span> Visiting new places, Listening music
         
