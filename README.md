@@ -76,8 +76,6 @@
                     <p> <span> Address : </span> Uthiramerur Tal, Kanchipuram Dist-603406 </p>
                 </div>
             </div>
-            
-        </div>
 
 </section>
 
